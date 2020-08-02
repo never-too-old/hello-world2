@@ -1,3 +1,5 @@
 This is me learning Git.  I found two docs that help explain its function.  I suspect there are others that explain it 'under the hood'.
 
 Once I understand this and play a bit, GitHub should be a relatively easy extension.
+
+Now I have done one commit, let's see what hapens on the second.
