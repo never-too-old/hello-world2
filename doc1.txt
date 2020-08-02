@@ -1,3 +1,12 @@
 This is me learning Git.  I found two docs that help explain its function.  I suspect there are others that explain it 'under the hood'.
 
 Once I understand this and play a bit, GitHub should be a relatively easy extension.
+
+THis is the branch 'new-docs' in hell-world2.
+
+This version of doc1.txt had less lines but I am going to add some more.
+
+Git is tracking the changes in content but they won't be meaning ful until I commit them.
+
+Then I can push them to GitHub for examination on the web.   8/2/20 - 10:54 am
+
